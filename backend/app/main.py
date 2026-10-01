@@ -1,4 +1,4 @@
-import os
+﻿import os
 from fastapi import FastAPI, UploadFile, File, HTTPException, Query, BackgroundTasks
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List, Optional
@@ -15,7 +15,7 @@ app = FastAPI(title="SmartScreener Backend API", version="1.0.0")
 # CORS middleware configuration to allow communication from frontend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # In production, specify the actual origin
+    allow_origins=["https://smart-screener-silk.vercel.app", "http://localhost:3000"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
@@ -248,3 +248,4 @@ def compare_candidates(job_id: int, ids: str = Query(..., description="Comma-sep
             created_at=c["created_at"]
         ) for c in candidates
     ]
+
