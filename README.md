@@ -1,6 +1,8 @@
-# SmartScreener
+﻿# SmartScreener
 
 AI-powered resume screening. Create a job pipeline, upload candidate resumes, and SmartScreener extracts, scores and ranks candidates against the role.
+
+![SmartScreener dashboard](docs/dashboard.png)
 
 **Live demo**
 - Frontend: https://smart-screener-silk.vercel.app
@@ -33,19 +35,19 @@ AI-powered resume screening. Create a job pipeline, upload candidate resumes, an
 
 ```
 SmartScreener/
-├── backend/
-│   └── app/
-│       ├── main.py          # FastAPI app and routes
-│       ├── database.py      # SQLite access
-│       ├── models/          # Pydantic schemas
-│       └── services/        # parser, extractor, scorer
-├── frontend/
-│   └── app/
-│       ├── components/      # dashboard, leaderboard, candidate-detail, ...
-│       ├── dashboard/       # dashboard page
-│       └── config.ts        # API base URL
-├── test_resumes/            # sample resumes for testing
-└── run.sh
+â”œâ”€â”€ backend/
+â”‚   â””â”€â”€ app/
+â”‚       â”œâ”€â”€ main.py          # FastAPI app and routes
+â”‚       â”œâ”€â”€ database.py      # SQLite access
+â”‚       â”œâ”€â”€ models/          # Pydantic schemas
+â”‚       â””â”€â”€ services/        # parser, extractor, scorer
+â”œâ”€â”€ frontend/
+â”‚   â””â”€â”€ app/
+â”‚       â”œâ”€â”€ components/      # dashboard, leaderboard, candidate-detail, ...
+â”‚       â”œâ”€â”€ dashboard/       # dashboard page
+â”‚       â””â”€â”€ config.ts        # API base URL
+â”œâ”€â”€ test_resumes/            # sample resumes for testing
+â””â”€â”€ run.sh
 ```
 
 ## Run Locally
