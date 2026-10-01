@@ -1,0 +1,27 @@
+Alex Rivera
+alex.rivera@datasci.org | +1 (333) 888-9999 | Austin, TX
+
+SUMMARY:
+Data Scientist and Machine Learning Engineer with 3+ years of experience designing, training, and deploying statistical models. Technical expertise in Python, SQL, NLP, and machine learning pipelines using PyTorch and Scikit-Learn.
+
+EXPERIENCE:
+Data Scientist | Insights AI (2022 - Present)
+- Built NLP parsing pipelines using Python and Hugging Face transformers to classify text, improving automated ticket routing accuracy by 30%.
+- Trained regression and classification models using Scikit-Learn and Pandas to predict client churn.
+- Wrote highly optimized SQL queries to aggregate and analyze product usage data across 2M+ active accounts.
+- Maintained production ML microservices running inside Docker containers on AWS.
+
+Junior Machine Learning Engineer | DataLabs (2021 - 2022)
+- Cleaned and prepared large datasets for neural network training using Pandas and NumPy.
+- Assisted in training Deep Learning models using PyTorch for computer vision tasks.
+- Created interactive dashboards to visualize key performance metrics using Tableau and Power BI.
+
+SKILLS:
+- Languages: Python, SQL, R
+- ML Libraries: PyTorch, Tensorflow, Scikit-Learn, Pandas, NumPy, NLP, Transformers
+- DevOps/Cloud: AWS, Docker, Git, Linux
+- Data Tools: Tableau, Power BI, SQL Server, MongoDB
+
+EDUCATION:
+Bachelor of Science in Data Science
+University of Texas at Austin (Graduated 2021)

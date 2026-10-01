@@ -1,0 +1,26 @@
+Jane Smith
+jane.smith@webdev.com | +1 (444) 555-6666 | Chicago, IL | janesmith.dev
+
+SUMMARY:
+Motivated Junior Front-End Developer with a passion for building clean, user-friendly, and responsive web interfaces. Eager to contribute frontend skills in JavaScript, HTML, CSS, and Tailwind CSS. 
+
+EXPERIENCE:
+Junior Web Developer | WebSolutions Agency (2024 - Present)
+- Crafted interactive landing pages and website layouts using HTML5, CSS3, and JavaScript.
+- Standardized utility styling using Tailwind CSS, ensuring responsive design across mobile, tablet, and desktop views.
+- Conducted cross-browser rendering bug fixes and improved site accessibility standards.
+- Integrated jQuery widgets and simple REST APIs for contact forms.
+
+Front-End Intern | Creative Digital (2023 - 2024)
+- Assisted in building website templates using HTML, CSS, Bootstrap, and jQuery.
+- Collaborated with UX design teams to translate Figma design screens into functioning web pages.
+- Maintained documentation and performed version control using Git and GitHub.
+
+SKILLS:
+- Frontend Technologies: JavaScript, HTML, CSS, Sass, Tailwind CSS, Bootstrap, jQuery
+- Design Tools: Figma, UI Design, Responsive Web Design
+- Other: Git, GitHub, REST APIs
+
+EDUCATION:
+Associate Degree in Web Design and Development
+Chicago Community College (Graduated 2023)

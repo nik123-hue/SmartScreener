@@ -1,0 +1,28 @@
+John Doe
+john.doe@email.com | +1 (555) 123-4567 | San Francisco, CA | github.com/johndoe
+
+SUMMARY:
+Highly experienced Backend Engineer specializing in Python, FastAPI, and scalable system design. Proven track record of leading development teams, designing microservices architectures, and setting up automated CI/CD pipelines in AWS cloud environments. 
+
+EXPERIENCE:
+Senior Backend Engineer | TechCorp Inc. (2021 - Present)
+- Designed and built a high-throughput transaction API using Python, FastAPI, and PostgreSQL, increasing system capacity by 150%.
+- Containerized development and production staging environments using Docker, orchestrating container deployments using Kubernetes.
+- Spearheaded CI/CD automation using GitHub Actions, reducing deployment time from 40 minutes to 6 minutes.
+- Mentored 4 junior developers and reviewed architectures for robust security.
+
+Software Engineer | Startup LLC (2018 - 2021)
+- Developed REST APIs and microservices using Python and Flask.
+- Integrated payment gateways (Stripe) and third-party SaaS services.
+- Managed database migrations and optimization scripts for MySQL database.
+- Collaborated on client web interfaces using React and JavaScript.
+
+SKILLS:
+- Languages: Python, JavaScript, SQL, Bash
+- Frameworks/APIs: FastAPI, Django, Flask, React, REST APIs
+- DevOps/Cloud: Docker, Kubernetes, AWS, Git, CI/CD, GitHub Actions
+- Databases: PostgreSQL, MySQL, Redis
+
+EDUCATION:
+Master of Science in Computer Science
+Stanford University (Graduated 2018)
