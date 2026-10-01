@@ -1036,11 +1036,16 @@ export default function Dashboard() {
       </div>
 
       {/* Candidate detail */}
+    {activeCandidate && (
+  <div className="fixed inset-0 z-50 overflow-y-auto bg-[#f6f8fc] p-5 sm:p-8">
+    <div className="mx-auto max-w-[1200px]">
       <CandidateDetail
         candidate={activeCandidate}
-        onClose={() => setActiveCandidate(null)}
+        onBack={() => setActiveCandidate(null)}
       />
-
+    </div>
+  </div>
+)}
       {/* Comparison */}
       {comparingIds && activeJob && (
         <ComparisonMatrix
